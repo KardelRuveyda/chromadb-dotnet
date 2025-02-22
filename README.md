@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/598d01cd-bd99-44bc-9659-2198078da05a)
 
 # Chroma C# SDK ile AI Uygulamaları
 
