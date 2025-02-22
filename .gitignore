@@ -1,0 +1,41 @@
+# Windows sistem dosyaları
+Thumbs.db
+ehthumbs.db
+
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET bağımlılıkları ve çıktılar
+bin/
+obj/
+**/bin/
+**/obj/
+
+# NuGet paketleri
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+*.proj.user
+
+# Chroma DB Client dosyaları (eğer veritabanı dosyaları burada saklanıyorsa)
+.chroma/
+
+# Docker dosyaları (eğer Docker kullanıyorsanız)
+.docker/
+docker-compose.override.yml
+
+# IDE ayarları
+.idea/
+.vscode/
+
+# Windows temporary files
+*~
+*.bak
+*.swp
