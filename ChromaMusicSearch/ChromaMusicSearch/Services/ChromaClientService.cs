@@ -14,7 +14,6 @@ namespace ChromaMusicSearch.Services
             _client = new ChromaClient(configOptions, _httpClient);
         }
 
-        // Connect to or create a collection
         public async Task<ChromaCollection> GetCollectionAsync(string collectionName)
         {
             var collection = await _client.GetOrCreateCollection(collectionName);
