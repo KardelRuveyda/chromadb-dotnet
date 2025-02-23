@@ -43,7 +43,7 @@ Projenizi yerel bilgisayarınıza klonlamak için aşağıdaki adımları izleyi
 
 1. **Git İle Projeyi Klonlayın**:
    ```bash
-   git clone https://github.com/kullanici_adiniz/chromadb-dotnet.git
+   https://github.com/KardelRuveyda/chromadb-dotnet-sample
    cd chromadb-dotnet
    ```
 
