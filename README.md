@@ -4,15 +4,6 @@
 
 Bu proje, **Chroma C# SDK** kullanarak yapay zeka uygulamaları geliştirmek için bir örnek sunmaktadır. Chroma, gömülü vektörleri depolama, vektör arama, metaveri filtreleme ve çok modlu veri alma gibi özellikleriyle güçlü bir açık kaynak veritabanıdır. Bu proje, müzik verileri kullanarak vektör arama ve semantik benzerlik tabanlı sorgularla ilgili örnekler sunmaktadır.
 
-## Chroma Nedir?
-
-**Chroma**, AI uygulamaları için özel olarak tasarlanmış açık kaynaklı bir veritabanıdır. Chroma, gömülü vektörler, metaveri filtreleme, vektör arama, tam metin arama ve çok modlu veri alımı gibi özellikleri destekler. Bu özellikleri sayesinde **semantik arama** ve **Retrieval-Augmented Generation (RAG)** gibi gelişmiş özellikleri uygulamalarınıza entegre edebilirsiniz.
-
-Chroma'nın sunduğu özellikler:
-- **Vektör Arama**: Veri kümeleri arasında vektör tabanlı benzerlik araması yapabilirsiniz.
-- **Veritabanı Yönetimi**: Kolayca veritabanları oluşturup yönetebilirsiniz.
-- **Metaveri Filtreleme**: Vektörlere ek olarak metaveri üzerinden filtreleme yaparak daha hedeflenmiş aramalar gerçekleştirebilirsiniz.
-
 ## Başlarken
 
 Bu kılavuz, **Chroma** ile yapay zeka uygulamalarınızı geliştirirken kullanabileceğiniz bir proje yapısına dair detayları sunmaktadır. Bu projeyi bilgisayarınızda çalıştırabilmek için aşağıdaki adımları izleyebilirsiniz.
@@ -148,7 +139,7 @@ Bu çıktıda, verilen sorguya en yakın iki şarkı (Billie Jean ve Imagine) ve
 
 Katkı sağlamak isteyenler için:
 
-1. Bu depoyu çatallayın.
+1. Bu depoyu forklayın.
 2. Yeni bir dal oluşturun (`git checkout -b feature-isim`).
 3. Değişikliklerinizi yapın ve commit edin (`git commit -am 'Yeni özellik ekle'`).
 4. Dalınızı uzak depoya gönderin (`git push origin feature-isim`).
@@ -158,6 +149,4 @@ Katkı sağlamak isteyenler için:
 
 Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) ile lisanslanmıştır.
 
-## İletişim
 
-Daha fazla bilgi için [Chroma'nın resmi web sitesini](https://www.trychroma.com/) ziyaret edebilirsiniz.
